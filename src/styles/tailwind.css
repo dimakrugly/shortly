@@ -1,15 +1,12 @@
+@font-face {
+    font-family: 'glitch';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../fonts/RubikGlitch-Regular.ttf') format('truetype');
+}
+
 @tailwind base;
-
-/* Your own custom base styles */
-
-/* Start purging... */
 @tailwind components;
-/* Stop purging. */
-
-/* Your own custom component styles */
-
-/* Start purging... */
 @tailwind utilities;
-/* Stop purging. */
 
-/* Your own custom utilities */
